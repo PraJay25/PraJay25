@@ -1,5 +1,5 @@
 
-# 👋 Hi, I’m @PraJay25
+# 👋 Hi, I’m Jay
 - 👀 I’m interested in software development, AI, and cybersecurity.
 - 🌱 I’m currently learning advanced AI techniques and exploring new frameworks in web development.
 - 💞️ I’m looking to collaborate on open-source projects, especially those related to AI and cybersecurity.
