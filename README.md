@@ -1,5 +1,7 @@
 👋 Hi, I’m Jay
-Welcome to my GitHub profile! I'm a passionate Full Stack Developer with a knack for solving complex problems and building innovative solutions.
+
+Welcome<img width="1536" height="1024" alt="Image" src="https://github.com/user-attachments/assets/5ebc02b4-2c37-451d-b49b-d42a184f7535" />
+ to my GitHub profile! I'm a passionate Full Stack Developer with a knack for solving complex problems and building innovative solutions.
 
 👀 About Me
 🔭 Interests: Software Development, Artificial Intelligence, and Cybersecurity.
